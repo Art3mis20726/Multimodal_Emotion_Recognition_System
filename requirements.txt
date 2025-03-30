@@ -6,3 +6,7 @@ tensorflow
 datasets
 transformers
 tf-keras
+matplotlib
+torch
+torchvision
+torchaudio
